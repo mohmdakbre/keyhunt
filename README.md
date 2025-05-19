@@ -1080,7 +1080,7 @@ Note for user that want use it with SWAP memory. IT DOESN'T WORK with Swap Memor
 Publickey:
 
 ```
-0365ec2994b8cc0a20d40dd69edfe55ca32a54bcbbaa6b0ddcff36049301a54579
+bc1qn536eee7mfu5akqq4jlcck7vrda4dqff7r7wq6
 ```
 
 Command
@@ -1251,8 +1251,7 @@ output:
 [+] Sorting data ... done! 32 values were loaded and sorted
 Base key: 1 thread 0
 
- Hit!!!! Private Key: 1
-address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+ Hit!!!! Private Key: bc1qn536eee7mfu5akqq4jlcck7vrda4dqff7r7wq6
 
  Hit!!!! Private Key: 3
 address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
